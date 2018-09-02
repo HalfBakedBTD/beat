@@ -1,27 +1,46 @@
 {
-  "name": "Ear Tensifier",
-  "version": "0.0.1",
-  "description": "A simple and modern discord music bot, made with discord.js",
+  "name": "beat",
+  "version": "0.0.4",
+  "description": "A discord bot made with discord.js",
   "main": "index.js",
   "scripts": {
-    "test": "s.ping"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tetra-dev/Ear Tensifier.git"
-  },
-  "keywords": [
-    "discord.js"
-  ],
-  "author": "Tetra",
+  "author": ">>>>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tetra-dev/Ear-Tensifier/issues"
-  },
-  "homepage": "https://github.com/tetra-dev/Ear-Tensifier#readme",
   "dependencies": {
+    "array-sort": "^1.0.0",
+    "cheerio": "^1.0.0-rc.2",
     "discord.js": "^11.3.2",
+    "discord.js-music": "^2.1.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fortnite": "^3.0.0",
     "fs": "0.0.1-security",
-    "simple-youtube-api": "^5.0.2"
+    "google-translate-api": "^2.3.0",
+    "got": "^8.3.0",
+    "hastebin-gen": "^1.3.1",
+    "isgd": "^1.1.3",
+    "moment": "^2.22.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "node-gyp": "^3.6.2",
+    "opusscript": "0.0.6",
+    "parse-ms": "^1.0.1",
+    "querystring": "^0.2.0",
+    "quick.db": "^5.3.8",
+    "quick.hook": "^1.2.2",
+    "rebuild": "^0.1.2",
+    "relevant-urban": "^2.0.0",
+    "simple-youtube-api": "^5.0.1",
+    "snekfetch": "^3.6.4",
+    "sqlite3": "^4.0.0",
+    "strict-uri-encode": "^2.0.0",
+    "superagent": "^3.8.2",
+    "table": "^4.0.3",
+    "weather": "^0.1.0",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl": "^0.10.1",
+    "ytdl-core": "^0.20.2"
   }
 }
